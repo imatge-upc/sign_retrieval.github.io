@@ -1,2 +1,2 @@
-# sign_retrieval
-Project page for Sign Language Video Retrieval with Free-Form Textual Queries.
+# sign-retrieval
+Project page for Sign Language Video Retrieval with Free-Form Textual Queries
